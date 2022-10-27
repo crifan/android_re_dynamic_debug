@@ -1,5 +1,14 @@
 # app可调试
 
+TODO：
+
+* 【已解决】安卓逆向：如何让YouTube的apk可以被调试
+* 【已解决】安卓让apk可调试：修改全局系统属性ro.debuggable
+* 【已解决】安卓逆向：用MagiskHide Props Config实现全局apk可调试
+* 【未解决】安卓逆向：让apk可调试之通过XPosed插件
+
+---
+
 确保app`可调试`=`debuggable`：
 
 让app可调试，有多种方式：
@@ -59,15 +68,6 @@ props
 > adb shell getprop ro.debuggable
 1
 ```
-
-TODO：
-
-* 【已解决】安卓逆向：如何让YouTube的apk可以被调试
-* 【已解决】安卓让apk可调试：修改全局系统属性ro.debuggable
-* 【已解决】安卓逆向：用MagiskHide Props Config实现全局apk可调试
-* 【未解决】安卓逆向：让apk可调试之通过XPosed插件
-
----
 
 ## AndroidManifest.xml加debuggable属性
 

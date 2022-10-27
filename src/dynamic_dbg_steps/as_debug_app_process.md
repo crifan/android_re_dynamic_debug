@@ -25,3 +25,6 @@ TODO：
 
 * 【基本解决】安卓AS调试apk的smali：新建和设置远程调试配置
 * 【已解决】安卓AS调试apk的smali：初始化配置AS调试环境
+* 【未解决】用Android Studio调试YouTube的smali代码：request请求发送相关的位置
+* 【未解决】用root的安卓手机OPPO R11s去配合Android Studio调试YouTube的Smali代码
+* 【已解决】安卓YouTube逆向：搭建安卓apk动态调试环境
