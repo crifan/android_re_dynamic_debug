@@ -1,5 +1,6 @@
 # 参考资料
 
+* [crifan/AndroidYouTubeDynamicDebug: 安卓逆向动态调试YouTube (github.com)](https://github.com/crifan/AndroidYouTubeDynamicDebug)
 * 内容相对最完整
   * [安卓逆向_13 --- AndroidStudio + Smalidea 动态调试 smali 代码【APK可调试】、gradle 配置_擒贼先擒王的博客-CSDN博客_smalidea](https://blog.csdn.net/freeking101/article/details/105937026)
 * DDMS adb 调试 端口 映射 关系
