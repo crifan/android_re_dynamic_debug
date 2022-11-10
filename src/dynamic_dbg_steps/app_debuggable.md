@@ -6,6 +6,12 @@ TODO：
 * 【已解决】安卓让apk可调试：修改全局系统属性ro.debuggable
 * 【已解决】安卓逆向：用MagiskHide Props Config实现全局apk可调试
 * 【未解决】安卓逆向：让apk可调试之通过XPosed插件
+* 【未解决】尝试用BDOpener修改ro.debuggable使得apk可调试
+* 【已解决】用Magisk插件MagiskHide Props Config去设置ro.debuggable实现全局app可调试
+* 【已解决】Google Pixel3安卓手机中MagiskHide Props Config中没有ro.debuggable属性可设置
+* 【未解决】安卓逆向：用mprop修改属性ro.debuggable让apk可调试
+* 【未解决】安卓逆向：用rootadb的setpropex修改属性ro.debuggable让apk可调试
+* 【未解决】mprop提示报错：inject position not found, may be already patched
 
 ---
 

@@ -1,5 +1,15 @@
 # AS调试app进程
 
+TODO：
+
+* 查看参数变量值
+  * 【已解决】Android Studio调试Smali代码：如何查看函数的局部变量临时变量的值
+  * 【已解决】Android Studio调试Smali代码：如何查看函数的全部参数的值
+  * 【已解决】Android 11的Google Pixel3中AS调试YouTube的Smali代码
+  * 【已解决】Android Studio调试smali代码：查看变量值出错internal error
+
+---
+
 Android Studio中调试设备端的app进程
 
 * `Attach Debugger to Android Process`

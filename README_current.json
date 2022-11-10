@@ -1,6 +1,6 @@
 {
   "latestVersion": "v0.9",
-  "lastUpdate": "20221106",
+  "lastUpdate": "20221110",
   "gitRepoName": "android_re_dynamic_debug",
   "bookName": "Android逆向：动态调试",
   "bookDescription": "介绍Android逆向开发期间，如何动态调试apk的smali代码。此处以YouTube为例，介绍主要步骤：确保安卓已root、调试工具选择、反编译出smali代码、确保app可调试、调试方式启动app、Android Studio中导入smali代码、给smali加断点、配置Android Studio项目、确保adb可获取进程列表、Android Studio调试app进程；以及一些心得。"
