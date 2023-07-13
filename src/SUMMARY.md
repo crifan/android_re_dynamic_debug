@@ -14,7 +14,7 @@
   * [adb可获取进程列表](dynamic_dbg_steps/adb_get_process.md)
   * [AS调试app进程](dynamic_dbg_steps/as_debug_app_process.md)
 * [其他分析调试工具](other_debug_tool/README.md)
-  * [frida](other_debug_tool/frida.md)
+  * [Frida](other_debug_tool/frida.md)
   * [AndBug](other_debug_tool/andbug.md)
   * [redexer](other_debug_tool/redexer.md)
   * [Fino](other_debug_tool/fino.md)

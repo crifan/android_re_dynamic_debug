@@ -1,32 +1,21 @@
-# frida
+# Frida
 
-* 主页
-  * Github
-    * [Frida](https://github.com/frida/)
-  * 官网
-    * [Frida • A world-class dynamic instrumentation framework | Inject JavaScript to explore native apps on Windows, macOS, GNU/Linux, iOS, Android, and QNX](https://www.frida.re)
-* 简介
-  * 一款基于`python` + `javascript`的`hook框架`
-  * 可运行在Android/iOS/Linux/Win/OSX等各平台
-  * 主要使用动态二进制插桩(DBI)技术
-    * 将外部代码注入到现有的正在运行的二进制文件中，从而让它执行额外操作
-      * 支持哪些额外操作
-        * 访问进程内存
-        * 在应用程序运行时覆盖函数
-        * 从导入的类调用函数
-        * 在堆上查找对象实例并使用
-        * Hook、跟踪和拦截函数等
-      * 注：调试器也能完成相应工作，不过非常麻烦，比如各种反调试
-* 功能和特点
-  * Scriptable
-    * Inject your own scripts into black box processes. Hook any function, spy on crypto APIs or trace private application code, no source code needed. Edit, hit save, and instantly see the results. All without compilation steps or program restarts.
-  * Portable
-    * Works on Windows, macOS, GNU/Linux, iOS, Android, and QNX. Install the Node.js bindings from npm, grab a Python package from PyPI, or use Frida through its Swift bindings, .NET bindings, Qt/Qml bindings, or C API.
-  * Free
-    * Frida is and will always be free software (free as in freedom). We want to empower the next generation of developer tools, and help other free software developers achieve interoperability through reverse engineering.
-  * Battle-tested
-    * We are proud that NowSecure is using Frida to do fast, deep analysis of mobile apps at scale. Frida has a comprehensive test-suite and has gone through years of rigorous testing across a broad range of use-cases.
-* 文档
-  * [Welcome | Frida • A world-class dynamic instrumentation framework](https://www.frida.re/docs/home/)
+* `Frida`
+  * 概述
+    * iOS逆向和Android逆向中常用的逆向工具之一
+    * 用于动态调试程序逻辑，实现各种调试功能
+    * 核心使用逻辑是frida加js脚本，或frida-trace追踪函数执行过程
+    * 以及高级的frida的Stalker追踪函数实际运行过程等等
+  * 主页
+    * 官网
+      * https://frida.re/
+    * Github
+      * https://github.com/frida/frida
 * 截图
-  * ![frida_usage_demo](../assets/img/frida_usage_demo.jpg)
+  * Windows
+    * ![frida_usage_example_win](../assets/img/frida_usage_example_win.jpg)
+  * Mac
+    * ![frida_usage_example_mac](../assets/img/frida_usage_example_mac.png)
+* 详解
+  * 独立子教程
+    * [逆向调试利器：Frida](https://book.crifan.org/books/reverse_debug_frida/website/)
