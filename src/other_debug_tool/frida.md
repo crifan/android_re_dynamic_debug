@@ -2,10 +2,10 @@
 
 * `Frida`
   * 概述
-    * iOS逆向和Android逆向中常用的逆向工具之一
+    * **iOS逆向**和**Android逆向**中常用的动态调试工具之一
     * 用于动态调试程序逻辑，实现各种调试功能
-    * 核心使用逻辑是frida加js脚本，或frida-trace追踪函数执行过程
-    * 以及高级的frida的Stalker追踪函数实际运行过程等等
+    * 核心使用逻辑是`frida+js脚本`，或`frida-trace`追踪函数执行过程
+      * 以及高级的`Frida`的`Stalker`追踪函数实际运行过程等等
   * 主页
     * 官网
       * https://frida.re/
