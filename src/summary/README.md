@@ -1,5 +1,7 @@
 # 心得
 
+## AndroidStudio调试Smali代码
+
 TODO：
 
 * smali断点不生效
@@ -33,7 +35,7 @@ TODO：
 
 总之：还是要找个靠谱的root后的安卓手机，才能保证后续安卓逆向的顺利。
 
-## 如何调试逻辑
+## 如何调试Smali代码逻辑
 
 TODO：
 

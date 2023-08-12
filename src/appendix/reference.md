@@ -1,6 +1,17 @@
 # 参考资料
 
+* 【未解决】Mac中用LLDB调试DisplayDemo安卓app中的libtacker.so
+* 【已解决】安卓逆向：lldb调试安卓app
+* 【已解决】Mac中下载和安装lldb-server到安卓手机Pixel3
+* 【已解决】已root的Android13的Pixel5中：用lldb调试安卓
+* 【已解决】Mac中lldb连接安卓中lldb-server报错：error Connection shut down by remote side while waiting for reply to initial handshake packet
+* 【记录】用lldb去调试安卓app：LiftFileManager
+* 
 * [crifan/AndroidYouTubeDynamicDebug: 安卓逆向动态调试YouTube (github.com)](https://github.com/crifan/AndroidYouTubeDynamicDebug)
+* [主流调试器：LLDB](https://book.crifan.org/books/popular_debugger_lldb/website/)
+* 
+* [lldb-server – Server for LLDB Debugging Sessions — The LLDB Debugger](https://lldb.llvm.org/man/lldb-server.html)
+* [Android SDK Offline: Android NDK LLDB Direct Download](https://androidsdkoffline.blogspot.com/p/android-ndk-lldb-direct-download.html)
 * 内容相对最完整
   * [安卓逆向_13 --- AndroidStudio + Smalidea 动态调试 smali 代码【APK可调试】、gradle 配置_擒贼先擒王的博客-CSDN博客_smalidea](https://blog.csdn.net/freeking101/article/details/105937026)
 * DDMS adb 调试 端口 映射 关系
@@ -22,3 +33,7 @@
 * [Android Studio 动态调试 apk 反编译出的 smali 代码 - yhjoker - 博客园 (cnblogs.com)](https://www.cnblogs.com/yhjoker/p/8974119.html)
 * [[免费专栏] Android安全之Android Studion 动态调试APK的两种方法_菠萝_橙留香的博客-CSDN博客_安卓apk调试](https://orangey.blog.csdn.net/article/details/126219935)
 * [[原创]修改Nexus5的boot.img - 打开系统调试-Android安全-看雪论坛-安全社区|安全招聘|bbs.pediy.com](https://bbs.pediy.com/thread-197334.htm)
+* [unidbg调用so生成xgorgon - SegmentFault 思否](https://segmentfault.com/a/1190000023651902)
+* [unidbg调用so文件 - SegmentFault 思否](https://segmentfault.com/a/1190000040333765)
+* [菜鸡诈尸水贴之unidbg学习笔记 - 『移动安全区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn](https://www.52pojie.cn/thread-1367840-1-1.html)
+* 

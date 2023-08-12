@@ -1,4 +1,4 @@
-# AS动态调试Smali步骤
+# AndroidStudio调试Smali
 
 TODO：
 
