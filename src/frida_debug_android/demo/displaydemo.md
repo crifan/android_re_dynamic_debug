@@ -12,7 +12,7 @@ frida-trace -U -f com.example.displaydemo -I libdl.so -I liblog.so -I libtacker.
 
 ### 截图
 
-![frida_trace_hook_more_func](../assets/img/frida_trace_hook_more_func.png)
+![frida_trace_hook_more_func](../../assets/img/frida_trace_hook_more_func.png)
 
 ### log日志
 
