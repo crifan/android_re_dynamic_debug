@@ -6,9 +6,34 @@
 * 【已解决】已root的Android13的Pixel5中：用lldb调试安卓
 * 【已解决】Mac中lldb连接安卓中lldb-server报错：error Connection shut down by remote side while waiting for reply to initial handshake packet
 * 【记录】用lldb去调试安卓app：LiftFileManager
+* 【已解决】Mac中给安卓手机Pixel3中初始化Frida调试环境
+* 【已解决】安卓手机Pixel3中运行frida-server
+* 【已解决】安卓手机Pixel3中adb shell中chmod无效
+* 【部分解决】Mac中运行adb root卡死restarting adbd as root
+* 【已解决】Mac中调试Pixel3中frida报错：Failed to enumerate processes connection closed
+* 【已解决】Mac中用frida去调试安卓手机Pixel3中的安卓app
+* 【已解决】尝试解决Android的frida不可用问题：MagiskFrida
+* 【已解决】安卓逆向：Pixel3中初始化frida调试安卓apk的环境
+* 【未解决】安卓逆向：用frida去hook调试JNI_OnLoad
+* 【记录】用frida-trace调试DisplayDemo中更多的函数调用
+* 【已解决】frida-trace去hook安卓应用报错：Failed to spawn timeout was reached
+* 【已解决】安卓逆向DisplayDemo：用Frida去hook调试dlopen
+* 【未解决】安卓逆向DisplayDemo：用Frida去hook调试android_dlopen_ext
+* 【未解决】安卓逆向LiftFileManager：用frida去hook调试
+* 【未解决】安卓逆向：用frida去hook调试RegisterNatives
+* 【已解决】安卓逆向LiftFileManager：用frida调试lcodecorex/KeepAlive相关底层C函数
+* 【记录】安卓逆向LiftFileManager：分析frida调试lcodecorex/KeepAlive的结果
+* 【已解决】安卓逆向LiftFileManager：用frida调试flock及结果分析
+* 【未解决】安卓逆向LiftFileManager：用frida调试pthread_create并分析结果
+* 【未解决】安卓逆向LiftFileManager：用frida调试创建进程的Linux的C函数
+* 【未解决】Mac中安装frida
+* 【已解决】Frida去hook安卓JNI函数JIN_OnLoad却hook不到无输出
+* 【已解决】安卓逆向DisplayDemo：用frida+js脚本去hook函数JIN_OnLoad
+* 【已解决】Frida调试安卓进程：字符串参数判断过滤
 * 
 * [crifan/AndroidYouTubeDynamicDebug: 安卓逆向动态调试YouTube (github.com)](https://github.com/crifan/AndroidYouTubeDynamicDebug)
 * [主流调试器：LLDB](https://book.crifan.org/books/popular_debugger_lldb/website/)
+* [Xposed插件开发 · 强大的安卓破解辅助工具：XPosed框架](https://book.crifan.org/books/crack_assistant_xposed_framework/website/dev_xposed_plugin/)
 * 
 * [lldb-server – Server for LLDB Debugging Sessions — The LLDB Debugger](https://lldb.llvm.org/man/lldb-server.html)
 * [Android SDK Offline: Android NDK LLDB Direct Download](https://androidsdkoffline.blogspot.com/p/android-ndk-lldb-direct-download.html)
