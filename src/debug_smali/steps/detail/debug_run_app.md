@@ -21,7 +21,7 @@ adb shell am start -D -n com.google.android.youtube/com.google.android.apps.yout
 
 以调试模式启动后的效果：
 
-![debug_mode_app_waiting](../assets/img/debug_mode_app_waiting.png)
+![debug_mode_app_waiting](../../../assets/img/debug_mode_app_waiting.png)
 
 启动后，app没有立刻正常运行，而是显示 `Waiting For Debugger`
 

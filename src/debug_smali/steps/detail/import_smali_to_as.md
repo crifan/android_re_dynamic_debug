@@ -7,21 +7,21 @@
 新版`Android Studio`的`Welcome to Android Studio`欢迎对话框中，点击：
 
 * `Open`
-  * ![as_welcome_open](../assets/img/as_welcome_open.png)
+  * ![as_welcome_open](../../../assets/img/as_welcome_open.png)
 
 去选择对应的，`Apktool`反编译后的输出的目录：
 
-![choose_apktool_output_folder](../assets/img/choose_apktool_output_folder.png)
+![choose_apktool_output_folder](../../../assets/img/choose_apktool_output_folder.png)
 
 导入后，即可：
 
-![as_imported_smali_apk](../assets/img/as_imported_smali_apk.jpg)
+![as_imported_smali_apk](../../../assets/img/as_imported_smali_apk.jpg)
 
 然后把根目录设置为**源代码根目录**：
 
 `Mark Directory as Source Root`
 
-![as_mark_as_source_root](../assets/img/as_mark_as_source_root.jpg)
+![as_mark_as_source_root](../../../assets/img/as_mark_as_source_root.jpg)
 
 注：其实不需要像别人说的：
 

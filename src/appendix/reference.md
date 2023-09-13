@@ -30,10 +30,14 @@
 * 【已解决】Frida去hook安卓JNI函数JIN_OnLoad却hook不到无输出
 * 【已解决】安卓逆向DisplayDemo：用frida+js脚本去hook函数JIN_OnLoad
 * 【已解决】Frida调试安卓进程：字符串参数判断过滤
+* 【未解决】尝试解决Android Studio中smali断点不生效：smalidea插件问题
+* 【未解决】尝试解决Android Studio中smali断点不生效：卸载重装smalidea插件
+* 【记录】Android Studio调试smali：IDE出错Exception in plugin Smalidea
 * 
 * [crifan/AndroidYouTubeDynamicDebug: 安卓逆向动态调试YouTube (github.com)](https://github.com/crifan/AndroidYouTubeDynamicDebug)
 * [主流调试器：LLDB](https://book.crifan.org/books/popular_debugger_lldb/website/)
 * [Xposed插件开发 · 强大的安卓破解辅助工具：XPosed框架](https://book.crifan.org/books/crack_assistant_xposed_framework/website/dev_xposed_plugin/)
+* [CPU模拟利器：Unicorn](https://book.crifan.org/books/cpu_emulator_unicorn/website/)
 * 
 * [lldb-server – Server for LLDB Debugging Sessions — The LLDB Debugger](https://lldb.llvm.org/man/lldb-server.html)
 * [Android SDK Offline: Android NDK LLDB Direct Download](https://androidsdkoffline.blogspot.com/p/android-ndk-lldb-direct-download.html)
@@ -61,4 +65,11 @@
 * [unidbg调用so生成xgorgon - SegmentFault 思否](https://segmentfault.com/a/1190000023651902)
 * [unidbg调用so文件 - SegmentFault 思否](https://segmentfault.com/a/1190000040333765)
 * [菜鸡诈尸水贴之unidbg学习笔记 - 『移动安全区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn](https://www.52pojie.cn/thread-1367840-1-1.html)
+* [Android逆向之旅---Hook神器家族的Frida工具使用详解 - Android应用安全防护和逆向分析-----作者 - CSDN博客](https://blog.csdn.net/jiangwei0910410003/article/details/80372118)
+* [浅谈 android hook 技术 - Android - 掘金](https://juejin.im/entry/58c0ed5ea22b9d0058923ee2)
+* [使用Frida框架进行hook | La0s](https://la0s.github.io/2018/06/21/frida/)
+* [Android逆向之旅-Hook神器家族的Frida工具使用详解 - 云+社区 - 腾讯云](https://cloud.tencent.com/developer/news/261990)
+* [hookmaster/frida-all-in-one: 《FRIDA操作手册》by @hluwa @r0ysue](https://github.com/hookmaster/frida-all-in-one)
+* [详解Hook框架frida，让你在逆向工作中效率成倍提升 - 知乎](https://zhuanlan.zhihu.com/p/41662447)
+* [Android Hook工具之Frida 基础使用 - 简书](https://www.jianshu.com/p/d4a44f803f33)
 * 

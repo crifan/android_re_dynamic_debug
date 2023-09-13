@@ -10,13 +10,13 @@ Android Studio项目初始化配置
 
 此处：Android设备是`Google Pixe 3`，API是`Android 9`=`Android API 28`
 
-![as_android_api_level_28](../assets/img/as_android_api_level_28.png)
+![as_android_api_level_28](../../../assets/img/as_android_api_level_28.png)
 
 所以设置为：
 
 * `Android API 28 Platform`
-  * ![as_project_sdk_api_28](../assets/img/as_project_sdk_api_28.png)
-    * ![as_prj_sdk_java_1_8](../assets/img/as_prj_sdk_java_1_8.png)
+  * ![as_project_sdk_api_28](../../../assets/img/as_project_sdk_api_28.png)
+    * ![as_prj_sdk_java_1_8](../../../assets/img/as_prj_sdk_java_1_8.png)
 
 TODO：
 

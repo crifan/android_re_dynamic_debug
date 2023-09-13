@@ -49,7 +49,7 @@ TODO：
 
 * Magisk的插件
   * MagiskHide Props Config
-    * ![magiskhide_props_config](../assets/img/magiskhide_props_config.png)
+    * ![magiskhide_props_config](../../../assets/img/magiskhide_props_config.png)
 
 安装后，去安卓设备端的命令行（`adb shell`进去）运行：
 
@@ -93,7 +93,7 @@ props
 android:debuggable="true"
 ```
 
-![debuggable_xml_set_true](../assets/img/debuggable_xml_set_true.jpg)
+![debuggable_xml_set_true](../../../assets/img/debuggable_xml_set_true.jpg)
 
 然后再用apktool重新打包出apk（有失败的风险）
 

@@ -17,3 +17,6 @@
     * unidbg
       * 原理：通过在 app 中找到对应的 JNI 接口，然后用 unicorn 引擎直接调用 so 文件
       * 优点：不需要运行 app，也无需逆向 so 文件，所以效率相对要高不少
+  * 底层依赖于：Unicorn
+    * 详见
+      * [CPU模拟利器：Unicorn](https://book.crifan.org/books/cpu_emulator_unicorn/website/)

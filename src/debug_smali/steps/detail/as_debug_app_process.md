@@ -13,7 +13,7 @@ TODO：
 Android Studio中调试设备端的app进程
 
 * `Attach Debugger to Android Process`
-  * ![as_attach_debugger_to_process](../assets/img/as_attach_debugger_to_process.png)
+  * ![as_attach_debugger_to_process](../../../assets/img/as_attach_debugger_to_process.png)
 
 进入`Choose Process`弹框页面
 
@@ -21,15 +21,15 @@ Android Studio中调试设备端的app进程
 
 选择对应的要调试（此处是`YouTube`）的进程：
 
-![choose_debug_youtube_process](../assets/img/choose_debug_youtube_process.jpg)
+![choose_debug_youtube_process](../../../assets/img/choose_debug_youtube_process.jpg)
 
 即可顺利启动调试
 
 并触发之前加的断点了：
 
-![as_smali_breakpoint_hit](../assets/img/as_smali_breakpoint_hit.jpg)
+![as_smali_breakpoint_hit](../../../assets/img/as_smali_breakpoint_hit.jpg)
 
-![as_debug_smali_vars](../assets/img/as_debug_smali_vars.jpg)
+![as_debug_smali_vars](../../../assets/img/as_debug_smali_vars.jpg)
 
 > #### warning:: 如果没启动或断点没生效，则重新点击调试
 > 有时候，至少此处经常发生：点击了一次 `Attach Debugger to Android Process`+`OK`，虽然启动了YouTube，但是无法调试进程

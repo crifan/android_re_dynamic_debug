@@ -69,9 +69,9 @@
 
 等函数，去打断点：
 
-![as_smali_breakpoint_onresume](../assets/img/as_smali_breakpoint_onresume.png)
+![as_smali_breakpoint_onresume](../../../assets/img/as_smali_breakpoint_onresume.png)
 
-![as_smali_breakpoint_getlifecycle](../assets/img/as_smali_breakpoint_getlifecycle.png)
+![as_smali_breakpoint_getlifecycle](../../../assets/img/as_smali_breakpoint_getlifecycle.png)
 
 TODO：
 

@@ -11,7 +11,7 @@
 
 此处用`apktool`去反编译YouTube的apk：
 
-![youtube_apk_file](../assets/img/youtube_apk_file.png)
+![youtube_apk_file](../../../assets/img/youtube_apk_file.png)
 
 去反编译得到包含`smali`源码的目录：
 
@@ -27,7 +27,7 @@ apktool d --use-aapt2 ../../apk/16.29.36/com.google.android.youtube_16.29.36.apk
 
 输出的目录的内容：
 
-![apktool_output_smali](../assets/img/apktool_output_smali.jpg)
+![apktool_output_smali](../../../assets/img/apktool_output_smali.jpg)
 
 * 一个或多个`smali`目录
   * 注：每个`smali`目录，对应着`apk`内部的`dex`文件
