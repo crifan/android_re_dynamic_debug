@@ -127,5 +127,5 @@ TODO：
 ---
 
 * Android的Hook插件开发框架
-  * [XPosed](https://book.crifan.org/books/crack_assistant_xposed_framework/website/)
+  * [XPosed](https://book.crifan.org/books/android_re_xposed_framework/website/)
   * `Cydia Substrate`

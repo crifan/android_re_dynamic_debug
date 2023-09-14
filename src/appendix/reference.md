@@ -36,7 +36,7 @@
 * 
 * [crifan/AndroidYouTubeDynamicDebug: 安卓逆向动态调试YouTube (github.com)](https://github.com/crifan/AndroidYouTubeDynamicDebug)
 * [主流调试器：LLDB](https://book.crifan.org/books/popular_debugger_lldb/website/)
-* [Xposed插件开发 · 强大的安卓破解辅助工具：XPosed框架](https://book.crifan.org/books/crack_assistant_xposed_framework/website/dev_xposed_plugin/)
+* [Xposed插件开发 · 安卓逆向调试：XPosed框架](https://book.crifan.org/books/android_re_xposed_framework/website/dev_xposed_plugin/)
 * [CPU模拟利器：Unicorn](https://book.crifan.org/books/cpu_emulator_unicorn/website/)
 * 
 * [lldb-server – Server for LLDB Debugging Sessions — The LLDB Debugger](https://lldb.llvm.org/man/lldb-server.html)

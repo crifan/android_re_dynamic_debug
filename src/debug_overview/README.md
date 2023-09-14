@@ -10,6 +10,6 @@
 * 用`LLDB`调试安卓app
 * 用`Frida`调试安卓app
 * 给安卓app编写`XPosed`插件，去调试hook逻辑
-  * 详见：[Xposed插件开发 · 强大的安卓破解辅助工具：XPosed框架](https://book.crifan.org/books/crack_assistant_xposed_framework/website/dev_xposed_plugin/)
+  * 详见：[Xposed插件开发 · 安卓逆向调试：XPosed框架](https://book.crifan.org/books/android_re_xposed_framework/website/dev_xposed_plugin/)
 
 此教程主要就是介绍这方面的详细内容。
