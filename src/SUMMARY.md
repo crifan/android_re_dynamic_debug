@@ -39,6 +39,8 @@
   * [CydiaSubstrate](hook_framework/cydiasubstrate/README.md)
     * [Android-OpenDebug](hook_framework/cydiasubstrate/android_opendebug.md)
     * [Introspy-Android](hook_framework/cydiasubstrate/introspy_android.md)
+* [adb辅助调试](adb_assit_debug/README.md)
+  * [查看内存映射](adb_assit_debug/mem_mapping.md)
 * [其他工具](other_debug_tool/README.md)
   * [AndBug](other_debug_tool/andbug.md)
   * [redexer](other_debug_tool/redexer.md)

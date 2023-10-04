@@ -127,7 +127,7 @@ Java.perform(function() {
 
 * 截图
   * ![frida_hook_jni_onload](../assets/img/frida_hook_jni_onload.png)
-  * ![frida_hook_screen_pc](../assets/img/frida_hook_screen_pc.png)
+  * ![frida_hook_screen_pc](../assets/img/frida_hook_screen_pc.jpg)
 * log日志
 ```bash
 ➜  frida frida -U -f com.example.displaydemo -l hook_libtacker_JNI_Onload.js

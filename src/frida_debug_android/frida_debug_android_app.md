@@ -33,4 +33,4 @@ frida-ps -Uai
   ```
   * 效果
     * ![frida_debug_android_trace](../assets/img/frida_debug_android_trace.png)
-    * ![frida_trace_debug_android_app](../assets/img/frida_trace_debug_android_app.png)
+    * ![frida_trace_debug_android_app](../assets/img/frida_trace_debug_android_app.jpg)

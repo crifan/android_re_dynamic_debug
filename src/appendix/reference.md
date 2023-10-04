@@ -33,6 +33,7 @@
 * 【未解决】尝试解决Android Studio中smali断点不生效：smalidea插件问题
 * 【未解决】尝试解决Android Studio中smali断点不生效：卸载重装smalidea插件
 * 【记录】Android Studio调试smali：IDE出错Exception in plugin Smalidea
+* 【记录】安卓手机中查看进程内存映射
 * 
 * [crifan/AndroidYouTubeDynamicDebug: 安卓逆向动态调试YouTube (github.com)](https://github.com/crifan/AndroidYouTubeDynamicDebug)
 * [主流调试器：LLDB](https://book.crifan.org/books/popular_debugger_lldb/website/)
@@ -72,4 +73,6 @@
 * [hookmaster/frida-all-in-one: 《FRIDA操作手册》by @hluwa @r0ysue](https://github.com/hookmaster/frida-all-in-one)
 * [详解Hook框架frida，让你在逆向工作中效率成倍提升 - 知乎](https://zhuanlan.zhihu.com/p/41662447)
 * [Android Hook工具之Frida 基础使用 - 简书](https://www.jianshu.com/p/d4a44f803f33)
+* [Understanding ELF using readelf and objdump (studylib.net)](https://studylib.net/doc/8584577/understanding-elf-using-readelf-and-objdump)
+* [Executable and Linkable Format (ELF) (netmeister.org)](https://stevens.netmeister.org/631/elf.html)
 * 
