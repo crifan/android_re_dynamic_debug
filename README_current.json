@@ -1,6 +1,6 @@
 {
-  "latestVersion": "v1.5.0",
-  "lastUpdate": "20240722",
+  "latestVersion": "v1.5.1",
+  "lastUpdate": "20240729",
   "gitRepoName": "android_re_dynamic_debug",
   "bookName": "Android逆向：动态调试",
   "bookDescription": "介绍Android逆向开发期间，如何动态调试安卓程序。包括用AndroidStudio调试apk的smali代码、用LLDB调试安卓程序、用Frida调试安卓程序、编写Xposed模块去调试安卓程序。对于AndroidStudio调试安卓Smali代码，此处以YouTube为例，介绍主要步骤：确保安卓已root、调试工具选择、反编译出smali代码、确保app可调试、调试方式启动app、Android Studio中导入smali代码、给smali加断点、配置Android Studio项目、确保adb可获取进程列表、Android Studio调试app进程；对于LLDB调试安卓，包括下载安卓版lldb-server到电脑、把lldb-server传输下载到安卓手机中、电脑中运行lldb、用lldb连接安卓手机中的lldb-server、最后是开始用lldb调试安卓app进程。对于Firda调试安卓，包括初始化Frida调试环境、Frida调试安卓app，以及贴出几个实例包括LiftFileManager、DisplayDemo等。以及Frida方面的常见的问题和心得。然后是动态调试方面的一些常见问题和心得。以及其他一些分析调试工具，包括Unidbg、AndBug、redexer、Fino等；以及用于辅助调试的adb，比如用adb查看内存映射；最后加上心得和实例和附录的参考资料。"
