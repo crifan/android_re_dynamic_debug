@@ -49,7 +49,11 @@ TODO：
 
 * Magisk的插件
   * MagiskHide Props Config
-    * ![magiskhide_props_config](../../../assets/img/magiskhide_props_config.png)
+    * 下载
+      * https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/releases
+        * https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/releases/download/v6.1.2/MagiskHidePropsConf-v6.1.2.zip
+    * 安装并开启后
+      * ![magiskhide_props_config](../../../assets/img/magiskhide_props_config.png)
 
 安装后，去安卓设备端的命令行（`adb shell`进去）运行：
 

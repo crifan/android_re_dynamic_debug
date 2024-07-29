@@ -13,7 +13,7 @@
     * [AS中导入smali代码](debug_smali/steps/detail/import_smali_to_as.md)
     * [给smali加断点](debug_smali/steps/detail/smali_add_breakpoint.md)
     * [配置AS项目](debug_smali/steps/detail/config_as_project.md)
-    * [adb可获取进程列表](debug_smali/steps/detail/adb_get_process.md)
+    * [可获取全部进程列表](debug_smali/steps/detail/get_all_process.md)
     * [AS调试app进程](debug_smali/steps/detail/as_debug_app_process.md)
   * [调试Smali实例](debug_smali/examples/README.md)
     * [调试安卓Youtube的smali](debug_smali/examples/youtube_smali.md)

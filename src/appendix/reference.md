@@ -34,6 +34,10 @@
 * 【未解决】尝试解决Android Studio中smali断点不生效：卸载重装smalidea插件
 * 【记录】Android Studio调试smali：IDE出错Exception in plugin Smalidea
 * 【记录】安卓手机中查看进程内存映射
+* 【已解决】Android Studio和DDMS中看不到安卓设备中的所有进程
+* 【已解决】Mac中运行adb shell无需su超级用户即可正常运行输出结果
+* 【未解决】Android Studio调试报错：Unable to open debugger port localhost handshake failed connection prematurally closed
+* 【未解决】Android Studio中smali断点不生效无法触发断点
 * 
 * [crifan/AndroidYouTubeDynamicDebug: 安卓逆向动态调试YouTube (github.com)](https://github.com/crifan/AndroidYouTubeDynamicDebug)
 * [主流调试器：LLDB](https://book.crifan.org/books/popular_debugger_lldb/website/)
