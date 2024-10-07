@@ -31,7 +31,7 @@ Android Studio中调试设备端的app进程
 
 ![as_debug_smali_vars](../../../assets/img/as_debug_smali_vars.jpg)
 
-> #### warning:: 如果没启动或断点没生效，则重新点击调试
+> [!warning|title:如果没启动或断点没生效，则重新点击调试]
 > 有时候，至少此处经常发生：点击了一次 `Attach Debugger to Android Process`+`OK`，虽然启动了YouTube，但是无法调试进程
 > 
 > 所以经常需要再去重新点击一次  `Attach Debugger to Android Process`+`OK`，然后就可以正常调试，触发断点了
